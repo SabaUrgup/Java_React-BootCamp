@@ -75,6 +75,7 @@ public class Main {
 		sehir2 = "İzmir";
 		System.out.println(sehir1);
 
+	
 		
 	}
 }
