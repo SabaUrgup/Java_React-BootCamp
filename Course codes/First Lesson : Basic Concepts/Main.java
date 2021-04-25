@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		//camelCase
+		//camelCase isimlendirme
 		String internetSubeButonu ="İnternet Şubesi";
 		double dolarDun = 8.20;
 		double dolarBugun = 8.20;
