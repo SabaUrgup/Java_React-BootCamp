@@ -2,22 +2,23 @@ package oopIntro;
 
 public class Product {
 	
-	public Product() {  //contructor blo�u
-		System.out.println("Ben �al��t�m");
-		// �mza ile product2 ve product3 i�in �al��an constructorlar
-	}
-	
-	public Product(int id, String name, double unitPrice, String detail) {
-		this();  //constructorlarla birbirini �al��t�rd�k ve product1 i�in de 'Ben �al��t�m' ifadesini ekrana yazd�rd�k.
-		this.id = id; 	//public class Product s�n�f�ndaki id
-		this.name = name;	//public class Product s�n�f�ndaki name
-		this.unitPrice = unitPrice;		//public class Product s�n�f�ndaki unitPrice
-		this.detail = detail;	//public class Product s�n�f�ndaki detail	
-		// imza uygunlu�u ile product1 i�in �al��an constructor
-	}
-	
 	int id;
 	String name;
 	double unitPrice;
 	String detail;
+	
+	public Product() {  //contructor bloğu: Bir nesnenin referansını bellekte oluşturduğumuz zaman çalışan blok.
+		System.out.println("Ben çalıştımm");
+		// imza ile product2 ve product3 için çalışan constructorlar
+	}
+	
+	public Product(int id, String name, double unitPrice, String detail) {
+		this();  //constructorlarla birbirini çalıştırdık ve product1 için de 'Ben çalıştım' ifadesini ekrana yazdırdık.
+		this.id = id; 	//public class Product sınıfındaki id
+		this.name = name;	//public class Product sınıfındaki name
+		this.unitPrice = unitPrice;		//public class Product sınıfındaki unitPrice
+		this.detail = detail;	//public class Product sınıfındaki detail	
+		// imza uygunluğu ile product1 için çalışan constructor
+	}
+	
 }
