@@ -1,4 +1,4 @@
-Java practises
+Java Practices
 
 https://www.youtube.com/playlist?list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8
 
