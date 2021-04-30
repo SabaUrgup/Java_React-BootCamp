@@ -21,7 +21,7 @@ public class Main {
 				total2+=i;			
 			}
 		}
-		//&&--> end operatörü iki koşulu da sağlayı sağlamadığına bakar.
+		//&&--> and operatörü iki koşulu da sağlayı sağlamadığına bakar.
 		if(total1==number2 && total2==number1) {
 			System.out.println("Arkadaş sayılardır");
 		}else {
