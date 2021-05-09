@@ -9,5 +9,4 @@ class NorthwindApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
