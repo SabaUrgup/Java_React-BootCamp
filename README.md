@@ -1,10 +1,13 @@
-https://kodlama.io/p/yazilim-gelistirici-yetistirme-kampi2
-
 [EN]
-# Java_React-BootCamp 
-Software Developer Training Camp (JAVA + REACT) works under the guidance of Engin Demiroğ
+# Java & React BootCamp 
+Software Developer Training Camp (JAVA + REACT) works under the guidance of Engin Demiroğ.
 
+You can visit the site : [Camp Home Page](https://kodlama.io/p/yazilim-gelistirici-yetistirme-kampi2)
+
+___
 
 [TR]
-# Java_React-BootCamp 
-Engin Demiroğ rehberliğinde (Java & React) Yazılım Geliştirici Yetiştirme Kampı çalışmaları
+# Java & React BootCamp 
+Engin Demiroğ rehberliğinde (Java & React) Yazılım Geliştirici Yetiştirme Kampı çalışmaları.
+
+ Kampın asıl sitesini ziyaret etmek için : [JAVA & REACT Kampı](https://kodlama.io/p/yazilim-gelistirici-yetistirme-kampi2)
