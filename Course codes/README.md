@@ -1,6 +1,12 @@
-Java_React-BootCamp live lessons codes
+[EN]
+# Java & React BootCamp Live Lessons Codes
+Java codes of bootcamp live lectures by Engin Demiroğ and lectures notes taken by me during the course.
 
-https://www.youtube.com/watch?v=HB0T0hAMk0k&list=PLqG356ExoxZUuVYKLuiQLnref7Y4ims87                
-(Java & React) Software Developer Training Camp live course records / Youtube playlist
+(Java & React) Software Developer Training Camp live course records : [Youtube Playlist Page](https://www.youtube.com/watch?v=HB0T0hAMk0k&list=PLqG356ExoxZUuVYKLuiQLnref7Y4ims87)
+___
 
-Java codes of live lectures by Engin Demiroğ and live lectures notes taken by me during the course.
+[TR]
+# Java & React BootCamp Canlı Ders Kodları
+Engin Demiroğ'un canlı derslerinin Java kodları ve ders sırasında aldığım ders notları.
+
+(Java & React) Yazılım Geliştirici Eğitim Kampı canlı kurs kayıtları: [Youtube Playlist](https://www.youtube.com/watch?v=HB0T0hAMk0k&list=PLqG356ExoxZUuVYKluiQLnref7Y4ims87)
